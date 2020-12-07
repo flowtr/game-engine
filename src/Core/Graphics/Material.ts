@@ -1,4 +1,5 @@
-﻿import { Shader, BuiltinShader, Matrix4x4 } from "..";
+﻿import { Shader, BuiltinShader } from "../GL";
+import { Matrix4x4 } from "../Math";
 import { Color } from "./Color";
 import { MaterialConfig } from "./MaterialManager";
 import { ShaderManager } from "./ShaderManager";

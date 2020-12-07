@@ -1,5 +1,6 @@
-import { Shader, Dictionary, BasicShader } from "..";
+import { Shader, BasicShader } from "../GL";
 import { BasicColorShader } from "../GL/Shaders/BasicColorShader";
+import { Dictionary } from "../Types";
 
 /**
  * Holds reference information for a given Shader.
